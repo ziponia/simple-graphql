@@ -10,7 +10,7 @@ copy `ormconfig-example.js` to `ormconfig.js`
 
 settings `ormconfig.js` database information
 
-connect to `http://localhost:4001/graphql`
+connect to <a href="http://localhost:4001/graphql" target="_blank">http://localhost:4001/graphql</a>
 
 you can send query
 
